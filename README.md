@@ -1,4 +1,4 @@
-![Web Devoloper](https://i.ibb.co/rw8Jg0X/Whats-App-Image-2023-08-31-at-7-00-04-PM-2.jpg)
+[[![Web Devoloper](https://i.ibb.co/rw8Jg0X/Whats-App-Image-2023-08-31-at-7-00-04-PM-2.jpg)
 ### Hi there 👋, I am Swadhin Ghosh
 #### Web Devoloper
 
@@ -30,3 +30,4 @@ Skills: HTML5/ CSS3/Javascript/ Bootstrap/ React.JS/ Express.JS/ MongoDB/ Node.J
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Swadhin941)  
 
 ![Profile views](https://gpvc.arturio.dev/Swadhin941)  
+](https://i.ibb.co/TYZgsDc/Whats-App-Image-2023-08-31-at-7-00-04-PM-2.jpg)https://i.ibb.co/TYZgsDc/Whats-App-Image-2023-08-31-at-7-00-04-PM-2.jpg](https://i.ibb.co/TYZgsDc/Whats-App-Image-2023-08-31-at-7-00-04-PM-2.jpg)https://i.ibb.co/TYZgsDc/Whats-App-Image-2023-08-31-at-7-00-04-PM-2.jpg
