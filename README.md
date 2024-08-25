@@ -7,7 +7,7 @@ Welcome to my corner of the digital realm! I am Swadhin Ghosh, a passionate and 
 
 Skills: HTML5/ CSS3/Javascript/ Bootstrap/ React.JS/ Express.JS/ MongoDB/ Node.JS/ Socket.IO/ Firebase/ Github/ Next.JS/ Python/ Flask/Java/ C/ C++/ MySQL 
 
-- 🔭 I’m currently working on https://taupe-clafoutis-aecdfa.netlify.app 
+- 🔭 I’m currently working on [Dorik AI](https://app.dorik.com/) 
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
