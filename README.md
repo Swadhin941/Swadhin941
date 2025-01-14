@@ -11,7 +11,7 @@ Skills: HTML5/ CSS3/Javascript/ Bootstrap/ React.JS/ Express.JS/ MongoDB/ Node.J
 - 🌱 I’m currently learning Redis & GraphQL
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
-<a href="https://gitroll.io/profile/umW7dAme2UgS20sk3s7BXaxhn54f1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/umW7dAme2UgS20sk3s7BXaxhn54f1?theme=dark" alt="GitRoll Profile Badge"/></a>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Swadhin941)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/swadhin-g-08b1a1101/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Swadhin ghosh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://main--dreamy-caramel-efab38.netlify.app/)  
 
